@@ -1,0 +1,10 @@
+*{
+    margin: 5px;
+}
+.logo{
+    size: 15px;
+    align-items: center;
+}
+.navbar{
+  align-items: center;
+}
