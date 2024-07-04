@@ -1,10 +1,18 @@
-*{
-    margin: 5px;
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+* {
+  margin: 5px;
 }
-.logo{
-    size: 15px;
-    align-items: center;
-}
-.navbar{
+.logo {
+  display: flex;
+  justify-content: center;
   align-items: center;
+}
+.header {
+  margin-top: 72px;
+  display: flex;
+  font-size: 38px;
+  justify-content: center;
+  align-items: center;
+  font-family: "Playfair";
+  font-weight: bold;
 }
